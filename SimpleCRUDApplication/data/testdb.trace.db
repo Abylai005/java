@@ -1,0 +1,9 @@
+2024-12-19 16:01:29.338707+05:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "RESOURCE" not found (this database is empty); SQL statement:
+SELECT * FROM resource [42104-232]
+2024-12-19 16:01:32.386784+05:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "RESOURCE" not found (this database is empty); SQL statement:
+SELECT * FROM resource [42104-232]
+2024-12-19 16:01:51.688395+05:00 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "RESOURCE" not found (this database is empty); SQL statement:
+SELECT * FROM Resource [42104-232]
